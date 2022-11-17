@@ -1,0 +1,28 @@
+.header{
+    padding: 5px 20px;
+    background: black;
+  }
+  
+  .title{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .login,.register{
+    float: right;
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+  }
+  
+  .logout,.new-post{
+    float: right;
+    color: white;
+    padding-top: 10px;
+  }
+  
+  .logout:hover, .new-post:hover{
+    color: white;
+    text-decoration: none;
+  }
+  
